@@ -16,4 +16,4 @@ La tarjeta utiliza un diseño visual con colores y gráficos, destacando la impo
 
 ## Autor ✍️
 
-[AndDev](https://github.com/AndDev)
+[AndDev](https://github.com/cAndresDev)
